@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+// Variables
+$font-weight-regular: 300;
+$font-weight-bold: 500;
+
+$light-grey: #d3d3d3;
+$blue: #004066;
+$dark-blue: #001f3f;
